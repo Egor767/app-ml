@@ -40,7 +40,7 @@ def Scatter():
     st.pyplot(plt)
 
 
-data = pd.read_csv("Data\csgo_taskv2.csv")
+data = pd.read_csv("Data/csgo_taskv2.csv")
 data = data.drop(["Unnamed: 0"], axis=1)
 
 st.title("Выберите визуализацию:")
