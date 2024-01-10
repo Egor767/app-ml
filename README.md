@@ -1,2 +1,1 @@
-# app-ml
- RGR
+Ссылка на развернутую версию: https://egormusiyak.streamlit.app/Models
